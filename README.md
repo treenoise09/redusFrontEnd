@@ -1,47 +1,14 @@
-# Getting Started with Create React App
+เรียน บริษัท สวิฟท์ ไดนามิคส์ จำกัด
+ผม พิริยพงศ์ บุตรดีวงศ์ เขียนจดหมายฉบับนี้เพื่ออธิบายถึงประสบการณ์การทดสอบตำแหน่ง Frontend Developer ที่บริษัท สวิฟท์ ไดนามิคส์ จำกัด เมื่อวันที่ 30/5 - 4/6 ที่ผ่านมา
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ผมรู้สึกขอบคุณสำหรับโอกาสในการทดสอบทักษะและความรู้ของผม ผมทุ่มเทอย่างเต็มที่เพื่อแสดงให้เห็นถึงศักยภาพของผมในการเป็นส่วนหนึ่งของทีมพัฒนาของคุณ
 
-## Available Scripts
+อย่างไรก็ตาม ผมต้องยอมรับว่า ผมประสบปัญหาบางประการระหว่างการทดสอบ ผมขาดประสบการณ์ในการใช้งานไลบรารีบางตัว เช่น Redux และ i18n ซึ่งทำให้ผมต้องใช้เวลาศึกษาเพิ่มเติมประมาณ 2 วัน ผมยังมีประสบการณ์การใช้งาน CSS ค่อนข้างจำกัด เนื่องจากผมคุ้นเคยกับการใช้ Bootstrap เป็นหลัก ปัจจัยเหล่านี้ส่งผลต่อประสิทธิภาพของผมในการทดสอบ ทำให้ผลงานไม่สมบูรณ์แบบตามที่ผมตั้งใจไว้
 
-In the project directory, you can run:
+ผมรู้สึกเสียใจอย่างยิ่งสำหรับผลลัพธ์ที่เกิดขึ้น ผมมุ่งมั่นที่จะพัฒนาตนเองอยู่เสมอ ผมจะใช้ประสบการณ์จากการทดสอบครั้งนี้เป็นบทเรียน และนำความรู้ที่ได้ไปศึกษาเพิ่มเติมเกี่ยวกับไลบรารีและเทคนิคที่จำเป็น ผมมั่นใจว่าผมสามารถเรียนรู้และปรับตัวให้เข้ากับสภาพแวดล้อมการทำงานใหม่ได้อย่างรวดเร็ว
 
-### `npm start`
+ผมขอขอบคุณอีกครั้งสำหรับโอกาสในการทดสอบ ผมหวังว่าจะได้รับโอกาสในการพิสูจน์ความสามารถของผมอีกครั้งในอนาคต
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+ขอแสดงความนับถือ
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-"# redusFrontEnd" 
+พิริยพงศ์ บุตรดีวงศ์
