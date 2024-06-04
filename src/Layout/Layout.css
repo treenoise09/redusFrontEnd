@@ -1,0 +1,180 @@
+/* Layout.css */
+.button {
+    position: relative;
+    width: 33%; /* Adjust width as needed */
+    height: 40px; /* Adjust height as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .button-left::before,
+  .button-right::before {
+    content: "";
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+  }
+  
+  .button-left::before {
+    border-width: 10px 10px 10px 0;
+    border-color: transparent #000 transparent transparent;
+  }
+  
+  .button-right::before {
+    border-width: 10px 0 10px 10px;
+    border-color: transparent transparent transparent #000;
+  }
+  
+  .button-up-down {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  .button-up-down::before,
+  .button-up-down::after {
+    content: "";
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+  }
+  
+  .button-up-down::before {
+    border-width: 0 6px 6px 6px; /* Adjust size as needed */
+    border-color: transparent transparent #000 transparent;
+  }
+  
+  .button-up-down::after {
+    border-width: 6px 6px 0 6px; /* Adjust size as needed */
+    border-color: #000 transparent transparent transparent;
+  }
+  .pos {
+    border-width: 0px 0px 1px 0px;
+    border-style: solid;
+    border-color: black;
+    padding-left: 15%;
+  padding-right: 15%;
+  display: flex;
+  justify-content: space-between;
+  }
+  
+  .sphere-button::before,
+  .sphere-button::before {
+    content: "";
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+  }
+  
+  .sphere-button::before {
+    border-width: 10px 10px 10px 10px;
+    border-radius: 50px;
+  
+  }
+  
+  .sphere-button::before {
+    border-width: 10px 10px 10px 10px;
+    border-radius: 50px;
+
+  }
+  .square-button::before,
+  .square-button::before {
+    content: "";
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+  }
+  
+  .square-button::before {
+    border-width: 10px 10px 10px 10px;
+  
+  }
+  
+  .square-button::before {
+    border-width: 10px 10px 10px 10px;
+
+  }
+
+  .ellipse-button::before,
+  .ellipse-button::before {
+    content: "";
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+  }
+  
+  .ellipse-button::before {
+    border-width: 10px 10px 10px 10px;
+    border-radius: 50% / 25%;
+  }
+  
+  .ellipse-button::before {
+    border-width: 10px 10px 10px 10px;
+    border-radius: 50% / 25%;
+  }
+  
+  .rectangle-button::before,
+  .rectangle-button::before {
+    content: "";
+    display: inline-block;
+    width: 40px;
+    height: 0;
+    border-style: solid;
+  }
+  
+  .rectangle-button::before {
+    border-width: 10px 10px 10px 10px;
+    
+  }
+  
+  .rectangle-button::before {
+    border-width: 10px 10px 10px 10px;
+    
+  }
+
+  .trapezoid-button::before,
+  .trapezoid-button::before {
+    content: "";
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+  }
+  
+  .trapezoid-button::before {
+    border-width: 10px 10px 10px 10px;
+    border-radius: 0 0 5px 5px / 0 0 10px 10px;
+  }
+  
+  .trapezoid-button::before {
+    border-width: 10px 10px 10px 10px;
+    border-radius: 0 0 5px 5px / 0 0 10px 10px;
+  }
+
+  .parallelogram-button::before,
+  .parallelogram-button::before {
+    content: "";
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+  }
+  
+  .parallelogram-button::before {
+    border-width: 10px 10px 10px 10px;
+    border-radius: 0 5px  0 5px/ 0 10px  0 10px;
+  }
+  
+  .parallelogram-button::before {
+    border-width: 10px 10px 10px 10px;
+    border-radius: 0 5px  0 5px/ 0 10px  0 10px;
+  }
+  .flex{
+    display: flex;
+  }

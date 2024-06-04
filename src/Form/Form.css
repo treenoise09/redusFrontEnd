@@ -1,0 +1,54 @@
+.form_background {
+    background: transparent;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 900px;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-bottom: 3%;
+}
+
+h1 {
+    text-align: left;
+    margin-left: 20px;
+}
+
+.custom-form {
+   
+    gap: 20px;
+}
+
+.custom-form .ant-form-item {
+    margin-bottom: 16px;
+}
+
+.custom-form .form-buttons {
+    grid-column: span 2;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.custom-form .ant-form-item-label {
+    font-weight: bold;
+}
+
+.custom-form .ant-input, .custom-form .ant-select-selector, .custom-form .ant-picker, .custom-form .ant-input-number {
+    width: 100%;
+}
+
+.form-buttons .ant-btn {
+    width: 100px;
+}
+
+.contain{
+    background-color: transparent;
+    margin: 1%;
+}
+.line-COL{
+    display: flex;
+}
+.formDiv{
+    display: flex;
+}
